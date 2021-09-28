@@ -3,9 +3,9 @@
   font-family: 'Raleway', sans-serif;
 }
 
-/* p {
+p {
   margin: 5px;
-} */
+}
 
 .yellow {
   color: #FFD541;
@@ -42,11 +42,11 @@
   align-items: center;
 }
 
-  .protag-logo {
+  /* .protag-logo {
     width: 30px;
     margin: 35px 10px 35px 20px;
     cursor: pointer;
-  }
+  } */
 
   .protag-title {
     display: block;
