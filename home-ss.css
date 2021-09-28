@@ -1,9 +1,9 @@
 .hero-image {
   height: 100vh;
-  min-height: -webkit-fill-available;
   width: 100%;
   object-fit: cover;
   object-position: center;
+
   /* background-image: url("img/DSCF6815-Edited.jpg");
   background-size: cover;
   background-position: center;
